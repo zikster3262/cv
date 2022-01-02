@@ -39,14 +39,14 @@ body {
 
 .top-cloud {
   position: absolute;
-  width: 120px;
-  right: 300px;
+  width: 250px;
+  right: 25%;
   top: 50px;
 }
 .bottom-cloud {
   position: absolute;
-  width: 120px;
-  left: 300px;
+  width: 250px;
+  left: 25%;
   bottom: 300px;
 }
 
@@ -81,6 +81,7 @@ body {
 .bottom-container {
   background-color: #66bfbf;
   padding-top: 50px;
+  position: relative;
   margin: 0px auto 0px auto;
   margin-top: 50px;
   padding-bottom: 10px;
@@ -143,6 +144,7 @@ hr {
 }
 
 .contact-me {
+  margin-top: 12%;
   padding-bottom: 50px;
 }
 
